@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSizeMainTitle">32sp</dimen>
+    <dimen name="textSizeTitle">16sp</dimen>
+    <dimen name="paddingDetailElements">8dp</dimen>
+    <dimen name="paddingTimezones">15dp</dimen>
+    <dimen name="heightOfFlagMain">60dp</dimen>
+</resources>
